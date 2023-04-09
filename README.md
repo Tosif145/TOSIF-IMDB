@@ -9,10 +9,10 @@
 
 ## JS:
   * Added functionlity to the web site using two differnt Javascript files
-  * The work differntly based on the user interaction with the website.
+  * They work differntly based on the user interaction with the website.
   
 ## Features:
- * Nav bra contains Logo, Brand Name, favorite button, search bar.
+ * Nav bar contains Logo, Brand Name, favorite button, search bar.
  * Search bar takes user input and auto suggest movie names.
  * Resulted movies can be viewd with full description and details by clicking on the card.
  * User can add them to favourite list.
