@@ -19,5 +19,5 @@
  * Favourite button opens the favourite movie section.
  * Favourite movie section has closing button that minimzes this section.
 
-## Responsivness:
+## Responsiveness:
   * Web site is responsible for all devices based on theire device size.
